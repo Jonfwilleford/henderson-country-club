@@ -483,3 +483,7 @@ body {
         grid-column: span 2;
     }
 }
+
+.pricing {
+    padding-left: 50px;
+}
